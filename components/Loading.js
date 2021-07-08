@@ -20,6 +20,7 @@ const Loader = styled.img`
 width:200px;
 height:200px;
 animation: spinner .4s infinite;
+margin-bottom: 10px;
 
 
 @keyframes spinner{
